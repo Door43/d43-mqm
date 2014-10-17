@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[mqm:home|Door43 (mqm)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-mqm|d43-mqm repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-mqm/archive/master.zip|d43-mqm.zip]]
+
+**Recent Changes**
+{{changes>ns = mqm}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/mqm|Ethnologue data]]
+
